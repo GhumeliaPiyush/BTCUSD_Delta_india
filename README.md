@@ -16,9 +16,10 @@ Plyer for desktop notifications
 TA-Lib for technical analysis indicators
 Setup
 Clone the Repository:
-
+'''
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
+'''
 Create and Activate a Conda Environment (recommended for using TA-Lib):
 
 conda create -n trading-signals python=3.x
