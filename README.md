@@ -17,31 +17,21 @@ TA-Lib for technical analysis indicators
 Setup
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 Create and Activate a Conda Environment (recommended for using TA-Lib):
 
-bash
-Copy code
 conda create -n trading-signals python=3.x
 conda activate trading-signals
 Install Required Packages:
 
-bash
-Copy code
 pip install -r requirements.txt
 Note: Ensure to install TA-Lib within the conda environment for compatibility:
 
-bash
-Copy code
 conda install -c conda-forge ta-lib
 Usage
 Run the Application:
 
-bash
-Copy code
 python main.py
 Select Time Frame: Choose the desired time frame from the ComboBox.
 
