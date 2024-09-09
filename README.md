@@ -42,3 +42,5 @@ This Python project is designed to fetch data from Delta Exchange India for the 
    ```bash
    pip install -r requirements.txt
 Note: Ensure to install TA-Lib within the conda environment for compatibility:
+    ```bash
+    conda install -c conda-forge ta-lib
