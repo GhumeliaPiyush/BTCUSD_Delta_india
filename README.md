@@ -38,3 +38,6 @@ This Python project is designed to fetch data from Delta Exchange India for the 
   ```bash
   conda create -n trading-signals python=3.x
   conda activate trading-signals
+3.**Install Required Packages**:
+  ```bash
+  pip install -r requirements.txt
