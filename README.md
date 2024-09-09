@@ -1,4 +1,4 @@
-BTCUSD Trading Signal Generator
+BTCUSD_Delta_india
 This Python project is designed to fetch data from Delta Exchange India for the BTCUSD pair, allowing users to generate trading signals based on various technical indicators. The application supports multiple time frames and provides trading recommendations using the following indicators:
 
 Exponential Moving Average (EMA)
