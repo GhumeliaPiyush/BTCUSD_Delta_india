@@ -34,7 +34,11 @@ This Python project is designed to fetch data from Delta Exchange India for the 
    ```bash
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
-2.**Create and Activate a Conda Environment (recommended for using TA-Lib)**:
-  ```bash
-  conda create -n trading-signals python=3.x
-  conda activate trading-signals
+2. **Create and Activate a Conda Environment (recommended for using TA-Lib)**:
+    ```bash
+    conda create -n trading-signals python=3.x
+    conda activate trading-signals
+3. **Install Required Packages**:
+   ```bash
+   pip install -r requirements.txt
+Note: Ensure to install TA-Lib within the conda environment for compatibility:
