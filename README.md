@@ -33,5 +33,5 @@ This Python project is designed to fetch data from Delta Exchange India for the 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/your-repo.git
-   cd your-repo'''
+   cd your-repo
 
